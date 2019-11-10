@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "690056623390",
+    "firebase_url": "https://flash-chat-77076.firebaseio.com",
+    "project_id": "flash-chat-77076",
+    "storage_bucket": "flash-chat-77076.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:690056623390:android:7437c365c028eedbfa450f",
+        "android_client_info": {
+          "package_name": "co.obligar.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "690056623390-uqr97ef74ef8ua8esvpbjme3tultcopn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbj0yHeaNw-d_Uucz9K4OVPlwjZB3MIjA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "690056623390-uqr97ef74ef8ua8esvpbjme3tultcopn.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "690056623390-ufjoa76a3hi5lgc6k4f88g8hjk4gc16h.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "co.obligar.flashChat"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
